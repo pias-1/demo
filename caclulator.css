@@ -2,8 +2,9 @@ body{
     margin: 0%;
     padding: 0%;
     line-height: 0.5;
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18VEnnxilzuz5ts_2P4QWAsPyl4d7AQurTQ&usqp=CAU);
+  background: url(https://cdn.pixabay.com/photo/2021/01/22/20/16/heron-5941013_960_720.jpg);
   background-size: cover;
+    background-attachment: fixed;
   background-repeat: no-repeat;
 
 }
